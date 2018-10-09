@@ -1,0 +1,58 @@
+{
+	"data":
+	[
+	
+{
+    "question": "Muscle relaxers",
+      "answer": [
+        { "choice": "Methocarbamol" },
+        { "choice": "Cyclobenzaprine" },
+        { "choice": "Carisoprodol" },
+        { "choice": "Metaxalone" }
+      ]
+
+},
+{
+    "question": "Distraction",
+      "answer": [
+        { "choice": "tv" },
+        { "choice": "reading" },
+        { "choice": "games" }
+      ]
+
+},
+{
+    "question": "Ice/Heat",
+      "answer": [
+        { "choice": "Ankle sprain" },
+        { "choice": "Knee sprain" },
+        { "choice": "Muscle or joint sprain" }
+      ]
+
+},
+{
+    "question": "Music",
+      "answer": [
+        { "choice": "Rock" },
+        { "choice": "Musical theatre" },
+        { "choice": "Hip hop music" },
+        { "choice": "Dance music" },
+        { "choice": "Jazz" },
+        { "choice": "Popular Music" }
+      ]
+
+},
+{
+    "question": "Massage",
+      "answer": [
+        { "choice": "Swedish Massage Therapy" },
+        { "choice": "Aromatherapy Massage" },
+        { "choice": "Hot Stone Massage" },
+        { "choice": "Deep Tissue Massage" },
+        { "choice": "Shiatsu Massage" },
+        { "choice": "Thai Massage" }  
+      ]
+
+}
+]
+}

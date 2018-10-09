@@ -1,0 +1,39 @@
+{
+  "name": "reactdemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "backbone-events-standalone": "^0.2.7",
+    "native-base": "^2.8.0",
+    "react": "16.4.1",
+    "react-native": "0.56.0",
+    "react-native-elements": "^0.19.1",
+    "react-native-image-picker": "^0.26.10",
+    "react-native-image-zoom-viewer": "^2.2.18",
+    "react-native-indicators": "^0.13.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-safari-view": "^2.1.0",
+    "react-native-segmented-control-tab": "^3.3.1",
+    "react-native-simple-radio-button": "^2.7.3",
+    "react-native-sqlite-storage": "^3.3.6",
+    "react-native-swiper": "^1.5.13",
+    "react-native-table-component": "^1.1.8",
+    "react-native-tableview": "^2.3.1",
+    "react-native-vector-icons": "^5.0.0",
+    "react-native-video": "^3.2.0",
+    "react-navigation": "^2.12.1"
+  },
+  "devDependencies": {
+    "babel-jest": "23.4.2",
+    "babel-preset-react-native": "5.0.2",
+    "jest": "23.5.0",
+    "react-test-renderer": "16.4.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}
